@@ -1,0 +1,12 @@
+{
+  "name": "fyntune_solution_shop_List",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "concurrently \" cd backend && json-server --watch --port=5000 db.json  \" \" cd frontend && yarn start\" "
+  },
+  "dependencies": {
+    "concurrently": "^7.6.0"
+  }
+}

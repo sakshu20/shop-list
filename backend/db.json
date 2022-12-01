@@ -1,0 +1,44 @@
+{
+  "shoplist": [
+    {
+      "shopName": "shop 2",
+      "area": "pune",
+      "category": "butcher",
+      "openingDate": "2022-12-17",
+      "closingDate": "2022-12-22",
+      "id": 2
+    },
+    {
+      "shopName": "shop 3",
+      "area": "mumbai",
+      "category": "baker",
+      "openingDate": "2022-12-16",
+      "closingDate": "2022-12-25",
+      "id": 3
+    },
+    {
+      "shopName": "shop 4",
+      "area": "nashik",
+      "category": "chemist",
+      "openingDate": "2022-12-29",
+      "closingDate": "2022-12-30",
+      "id": 4
+    },
+    {
+      "shopName": "shop 5",
+      "area": "nashik",
+      "category": "chemist",
+      "openingDate": "2022-12-24",
+      "closingDate": "2022-12-25",
+      "id": 5
+    },
+    {
+      "shopName": "shop 7",
+      "area": "ahmednagar",
+      "category": "stationery",
+      "openingDate": "2022-12-25",
+      "closingDate": "2022-12-30",
+      "id": 6
+    }
+  ]
+}
